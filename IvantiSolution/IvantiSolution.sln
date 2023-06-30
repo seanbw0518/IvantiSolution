@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvantiSolution", "IvantiSolution.csproj", "{441C6FA4-AFAA-404F-803D-A3AB9ED8B57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvantiSolutionTests", "..\IvantiSolutionTests\IvantiSolutionTests.csproj", "{DA1D0B2E-E409-405D-993F-8666A67B53B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441C6FA4-AFAA-404F-803D-A3AB9ED8B57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441C6FA4-AFAA-404F-803D-A3AB9ED8B57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441C6FA4-AFAA-404F-803D-A3AB9ED8B57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441C6FA4-AFAA-404F-803D-A3AB9ED8B57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1D0B2E-E409-405D-993F-8666A67B53B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1D0B2E-E409-405D-993F-8666A67B53B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1D0B2E-E409-405D-993F-8666A67B53B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1D0B2E-E409-405D-993F-8666A67B53B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D51AB57-45D3-4D82-ADB8-0E5833FAAC3D}
+	EndGlobalSection
+EndGlobal
